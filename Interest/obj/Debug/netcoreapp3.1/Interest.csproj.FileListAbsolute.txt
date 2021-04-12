@@ -1,0 +1,13 @@
+C:\Users\Ryan\source\repos\Interest\Interest\obj\Debug\netcoreapp3.1\Interest.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\Interest\Interest\obj\Debug\netcoreapp3.1\Interest.AssemblyInfoInputs.cache
+C:\Users\Ryan\source\repos\Interest\Interest\obj\Debug\netcoreapp3.1\Interest.AssemblyInfo.cs
+C:\Users\Ryan\source\repos\Interest\Interest\obj\Debug\netcoreapp3.1\Interest.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\Interest\Interest\bin\Debug\netcoreapp3.1\Interest.exe
+C:\Users\Ryan\source\repos\Interest\Interest\bin\Debug\netcoreapp3.1\Interest.deps.json
+C:\Users\Ryan\source\repos\Interest\Interest\bin\Debug\netcoreapp3.1\Interest.runtimeconfig.json
+C:\Users\Ryan\source\repos\Interest\Interest\bin\Debug\netcoreapp3.1\Interest.runtimeconfig.dev.json
+C:\Users\Ryan\source\repos\Interest\Interest\bin\Debug\netcoreapp3.1\Interest.dll
+C:\Users\Ryan\source\repos\Interest\Interest\bin\Debug\netcoreapp3.1\Interest.pdb
+C:\Users\Ryan\source\repos\Interest\Interest\obj\Debug\netcoreapp3.1\Interest.dll
+C:\Users\Ryan\source\repos\Interest\Interest\obj\Debug\netcoreapp3.1\Interest.pdb
+C:\Users\Ryan\source\repos\Interest\Interest\obj\Debug\netcoreapp3.1\Interest.genruntimeconfig.cache
